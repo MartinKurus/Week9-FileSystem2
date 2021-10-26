@@ -1,0 +1,11 @@
+C:\Users\opilane\source\repos\LogITPe21\filesystem\filesystem\obj\Debug\netcoreapp2.1\filesystem.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LogITPe21\filesystem\filesystem\obj\Debug\netcoreapp2.1\filesystem.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LogITPe21\filesystem\filesystem\obj\Debug\netcoreapp2.1\filesystem.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LogITPe21\filesystem\filesystem\obj\Debug\netcoreapp2.1\filesystem.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LogITPe21\filesystem\filesystem\bin\Debug\netcoreapp2.1\filesystem.deps.json
+C:\Users\opilane\source\repos\LogITPe21\filesystem\filesystem\bin\Debug\netcoreapp2.1\filesystem.runtimeconfig.json
+C:\Users\opilane\source\repos\LogITPe21\filesystem\filesystem\bin\Debug\netcoreapp2.1\filesystem.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LogITPe21\filesystem\filesystem\bin\Debug\netcoreapp2.1\filesystem.dll
+C:\Users\opilane\source\repos\LogITPe21\filesystem\filesystem\bin\Debug\netcoreapp2.1\filesystem.pdb
+C:\Users\opilane\source\repos\LogITPe21\filesystem\filesystem\obj\Debug\netcoreapp2.1\filesystem.dll
+C:\Users\opilane\source\repos\LogITPe21\filesystem\filesystem\obj\Debug\netcoreapp2.1\filesystem.pdb
